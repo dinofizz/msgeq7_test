@@ -1,0 +1,9 @@
+The msgeq7_test file was used to learn and test the following:
+
+* How to set up a timer correctly
+* How to set up the ADC correctly
+* How to read the output of the MSGEQ7
+
+The makefile assumes that you are using the STK500 development board, an ATmega644 microcontroller and that you are
+using avrdude to do the programming.
+
